@@ -3,7 +3,7 @@ Primeiro estudo de site responsivo trabalhando com HTML, CSS e JS. Site feito co
 
 O intuito do projeto era criar um site responsivo sobre teclados mecânicos. Fiz uma espécie de fórum que reúne artigos e agrupa pessoas com interesses em comum, além de realizar vendas e gerar cupons de desconto.
 
-## Referências em vídeo
+## Referências em vídeo 
 - https://www.youtube.com/watch?v=lCCN_lkl3Xw
 - https://www.youtube.com/watch?v=TVFu4-Kd4oM
 - https://www.youtube.com/watch?v=m2Sz-43azgw
