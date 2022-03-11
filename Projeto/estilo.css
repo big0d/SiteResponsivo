@@ -495,9 +495,10 @@ section{
 }
 
 .blogs .box-container .box .content .title{
-    font-size: 2.5rem;
+    font-size: large;
+    font-size: 2.3rem;
     line-height: 1.5;
-    color:#fff;
+    color:rgb(27, 27, 27);
 }
 
 .blogs .box-container .box .content .title:hover{
@@ -508,13 +509,13 @@ section{
     color:var(--main-color);
     display: block;
     padding-top: 1rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .blogs .box-container .box .content p{
-    font-size: 1.6rem;
+    font-size: 1.7rem;
     line-height: 1.8;
-    color:#ccc;
+    color:rgb(163, 163, 163);
     padding:1rem 0;
 }
 
@@ -562,14 +563,15 @@ section{
 }
 
 .footer .credit{
-    font-size: 2rem;
-    color:#fff;
+    font-size: 1.7rem;
+    color:rgb(184, 184, 184);
     font-weight: lighter;
     padding:1.5rem;
 }
 
 .footer .credit span{
-    color:var(--main-color);
+    font-size: 1.7rem;
+    color: rgb(184, 184, 184);
 }
 
 
