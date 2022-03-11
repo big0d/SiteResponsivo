@@ -28,3 +28,10 @@ Todas as fotos de perfil na aba de "últimas reviews" foram retiradas do Unsplas
 - Andrei (terceira review): https://unsplash.com/photos/ZHvM3XIOHoE
 
 ![Screenshot_364](https://user-images.githubusercontent.com/59957939/157775654-9ed5c2c2-1474-43df-bc06-f9d531c13d66.png)
+
+## Fotos - artigos
+- Outemu VS Gateron - O que não te contaram: https://www.reddit.com/r/MechanicalKeyboards/comments/so3pah/modification_tried_out_some_akko_cs_lavenders_but/?utm_source=share&utm_medium=web2x&context=3
+- Uma pacífica declaração contra o wireless: https://www.reddit.com/r/MechanicalKeyboards/comments/sns9y9/handwired_wireless_macropad_first_time_using_kmk/?utm_source=share&utm_medium=web2x&context=3
+- Switches ópticos e o nicho de teclados mecânicos: https://www2.razer.com/br-pt/razer-optical-switch
+
+![Screenshot_365](https://user-images.githubusercontent.com/59957939/157951887-1eb66d07-54b6-4be7-a353-db517e775f06.png)
